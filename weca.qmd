@@ -20,9 +20,10 @@ format:
 2. UK Pollinator Capital
 
 
-* Indicators provide the conditions for these but don't measure the outcomes
 
-* Online sources are sparse e.g. BRERC, iNaturalist
+* Indicators provide the conditions for these but don't measure the outcomes
+* Online sources are sparse and untargeted 
+    + BRERC, iNaturalist
 
 ## Evidence - filling the data gaps
 
@@ -51,12 +52,12 @@ format:
 
 ## Project Outline
 
-* Biodegradeable laser cut QR codes at key sites and walks
+* Biodegradeable QR codes at key sites and walks
 * Record priority species data: (count, species, timestamp, location)
 * Promote - (EU) Pollinator Week, City Nature Challenge, bioblitz
 * Build on Round 1 Pollinator Fund projects
 * Criterion for Round 2 funding?
-* Scalable - can extend to e.g. fungi, mammals
+* Scalable - can extend by species and location
 * Supports formal surveys
 
 ## Technology
