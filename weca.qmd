@@ -28,9 +28,10 @@ format:
 
 * Wildlife Index
 * Define abundance and diversity metrics with ecologists
-* Identify indicator species (pollinators + ...)
+* Identify indicator species matrix (pollinators + ...)
 * Establish baseline and trajectory
-* Species surveys to track progress (expensive)
+* Species surveys to track progress (eDNA, acoustic)
+    + Expensive
 
 ## Community Citizen Science
 
@@ -52,7 +53,7 @@ format:
 
 * Biodegradeable laser cut QR codes at key sites and walks
 * Record priority species data: (count, species, timestamp, location)
-* Promote - (EU) Pollinator Week, radio, schools
+* Promote - (EU) Pollinator Week, City Nature Challenge, bioblitz
 * Build on Round 1 Pollinator Fund projects
 * Criterion for Round 2 funding?
 * Scalable - can extend to e.g. fungi, mammals
