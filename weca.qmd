@@ -1,0 +1,76 @@
+---
+title: "Evidence Gaps: Nature Recovery"
+title-slide-attributes:
+  data-background-image: weca_strat_slightwash.png
+  data-background-size: contain
+  data-background-opacity: "0.7"
+author: "Steve Crawshaw"
+format:
+    revealjs:
+        theme: weca.scss
+---
+## Nature Recovery Indicators 
+
+1. Area of woodland and green space 
+2. SSSI Status 
+
+## Nature Recovery: Evidence gaps
+
+1. "..the abundance of wildlife has increased by 30% by 2030"
+2. UK Pollinator Capital
+
+
+* Indicators provide the conditions for these but don't measure the outcomes
+
+* Online sources are sparse e.g. BRERC, iNaturalist
+
+## Evidence - filling the data gaps
+
+* Wildlife Index
+* Define abundance and diversity metrics with ecologists
+* Identify indicator species (pollinators + ...)
+* Establish baseline and trajectory
+* Species surveys to track progress (expensive)
+
+## Community Citizen Science
+
+* Citizens help collect Wildlife Index data
+* Generate engagement, excitement and awareness
+* Process must be easy, digital and rewarding for citizen
+
+## QR Codes
+
+:::{layout-ncol=3 layout-valign="center"}
+
+![](qr.png)
+
+![](qr_wood.png)
+
+:::
+
+## Project Outline
+
+* Biodegradeable laser cut QR codes at key sites and walks
+* Record priority species data: (count, species, timestamp, location)
+* Promote - (EU) Pollinator Week, radio, schools
+* Build on Round 1 Pollinator Fund projects
+* Criterion for Round 2 funding?
+* Scalable - can extend to e.g. fungi, mammals
+* Supports formal surveys
+
+## Technology
+
+* Open data dashboard for transparency and reporting
+* Link to iNaturalist, BRERC by REST API
+* Track engagement with analytics
+* Streamlit app to quickly prototype
+
+## Summary
+
+* A low - cost, engaging way to collect critical environmental data
+* Scalable
+* Quick to prototype and deploy
+* Supports a key strategy commitment
+
+## Questions?
+
