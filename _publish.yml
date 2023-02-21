@@ -1,0 +1,4 @@
+- source: weca.qmd
+  quarto-pub:
+    - id: e6857ee6-0795-4a28-b875-323242b63547
+      url: 'https://quartopub.com/sites/stevecrawshaw/evidence-gaps-nature-recovery'

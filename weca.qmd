@@ -53,7 +53,7 @@ format:
 ## Project Outline
 
 * Biodegradeable QR codes at key sites and walks
-* Record priority species data: (count, species, timestamp, location)
+* Record indicator species data: (count, species, timestamp, location)
 * Promote - (EU) Pollinator Week, City Nature Challenge, bioblitz
 * Build on Round 1 Pollinator Fund projects
 * Criterion for Round 2 funding?
@@ -72,7 +72,7 @@ format:
 * A low - cost, engaging way to collect critical environmental data
 * Scalable
 * Quick to prototype and deploy
-* Supports a key strategy commitment
+* Supports key strategy commitments
 
 ## Questions?
 
